@@ -1,18 +1,21 @@
-### Hi there 👋, Isha Madlani
-#### Machine Learning Enthusiast
-![Machine Learning Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h3>Hi there 👋, Isha Madlani</h3>
+<h4>Machine Learning Enthusiast</h4>
+<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="Machine Learning Enthusiast">
 
-Hi, I am Isha Madlani, and I do Artificial Intelligence and Machine Learning. I really enjoy frameworks like React and I like doing DSA in general.
+<p>Hi, I am Isha Madlani, and I do Artificial Intelligence and Machine Learning. I really enjoy frameworks like React and I like doing DSA in general.</p>
 
-Skills: ML / REACT / FLASK
+<p><strong>Skills:</strong> ML / REACT / FLASK</p>
 
-- 🌱 I’m currently learning Machine Learning 
-- 👯 I’m looking to collaborate on ML projects 
-- 😄 Pronouns: she/her 
+<ul>
+  <li>🌱 I’m currently learning Machine Learning</li>
+  <li>👯 I’m looking to collaborate on ML projects</li>
+  <li>😄 Pronouns: she/her</li>
+</ul>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IshaM1801)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/isha-madlani-030a75272/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IMadlani68755)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:ishamadlani824@gmail.com)  
+<p>Contact me:</p>
+<a href="mailto:ishamadlani824@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="40">
+</a>
 
-My Gmail: [ishamadlani824@gmail.com](mailto:ishamadlani824@gmail.com)
+<p>My Gmail: <a href="mailto:ishamadlani824@gmail.com">ishamadlani824@gmail.com</a></p>
+
