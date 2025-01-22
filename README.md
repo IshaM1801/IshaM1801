@@ -18,11 +18,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<p>Contact me:</p>
-<a href="mailto:ishamadlani824@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="40">
-</a>
-
-<p>My Gmail: <a href="mailto:ishamadlani824@gmail.com">ishamadlani824@gmail.com</a></p>
-
