@@ -1,6 +1,5 @@
 <h3>Hi there 👋, Isha Madlani</h3>
 <h4>Machine Learning Enthusiast</h4>
-<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="Machine Learning Enthusiast">
 
 <p>Hi, I am Isha Madlani, and I do Artificial Intelligence and Machine Learning. I really enjoy frameworks like React and I like doing DSA in general.</p>
 
