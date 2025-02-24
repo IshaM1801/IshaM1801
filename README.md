@@ -2,8 +2,6 @@
 
 ## 🚀 Machine Learning Enthusiast | AI Developer | Tech Explorer
 
-[![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshaM1801&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 💡 About Me
 
 Hi! I'm **Isha Madlani**, a passionate **Machine Learning** and **Artificial Intelligence** enthusiast who loves working with **React, Flask**, and **DSA**. I enjoy tackling complex problems and building innovative solutions.
