@@ -9,9 +9,9 @@ Hi! I'm **Isha Madlani**, a passionate **Machine Learning** and **Artificial Int
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript
-- **Frameworks & Tools:** Flask, React, Scikit-Learn, TensorFlow
-- **Databases:** MySQL, PostgreSQL
+- **Languages:** Python, JavaScript, C, C++, Java, Rust
+- **Frameworks & Libraries:** Flask, React, Scikit-Learn, TensorFlow, Numpy, Pandas, Seaborn, Matplotlib, OpenCV, TensorFlow, Keras, Streamlit, PyTorch
+- **Databases:** MySQL, PostgreSQL, MongoDB
 
 ---
 
