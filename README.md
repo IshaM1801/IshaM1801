@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Isha Madlani!
 
-## 🚀 Machine Learning Enthusiast | AI Developer | Tech Explorer
+## 🚀 WebDev and Machine Learning Enthusiast | AI Developer | Tech Explorer
 
 ### 💡 About Me
 
