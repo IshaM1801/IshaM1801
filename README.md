@@ -27,12 +27,6 @@ Hi! I'm **Isha Madlani**, a passionate **Machine Learning** and **Artificial Int
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaM1801&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IshaM1801&theme=radical) |
 |---|---|
 
----
-
-### 📫 Connect With Me!
-- 🌐 [Portfolio](#) (Coming Soon!)
-- 💼 [LinkedIn](#) (Let's connect!)
-- 📧 ishamadlani@example.com
 
 ---
 
