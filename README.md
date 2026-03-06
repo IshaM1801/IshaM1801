@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Isha Madlani!
 
-## 🚀 AI/ML & Full Stack Developer | Tech Explorer
+## 🚀 AI/ML & Full Stack Developer | Tech Explorer | Open Source Contributor
 
 ### 💡 About Me
 
